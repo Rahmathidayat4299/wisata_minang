@@ -1,0 +1,88 @@
+[
+    {
+      "id": 1,
+      "name_wisata": "pantai air manis",
+      "location": "Padang",
+      "image": "https://cdn.nativeindonesia.com/foto/2016/02/pantai-aie-manih-padang-1.jpg",
+      "description": "Pantai Aie Manih dalam bahasa lokal yang memiliki arti Pantai Air Manis merupakan tempat wisata di Padang yang sangat terkenal. Di sinilah legenda Malin Kundang berakhir, yang dikutuk menjadi batu karena telah durhaka kepada ibundanya. Di pantai ini terdapat batu yang menyerupai orang yang sedang bersujud."
+    },
+    {
+      "id": 2,
+      "name_wisata": "Pantai Padang",
+      "location": "Padang ",
+      "image": "https://cdn.nativeindonesia.com/foto/2016/02/pantai-padang-1.jpg",
+      "description": "Keindahan panorama pantai juga tersaji di Pantai Padang. Tempat wisata di Padang yang satu ini berlokasi di pusat kota Padang. Tak heran jika tempat wisata ini senantiasa dipadati oleh masyarakat lokal yang ingin menikmati suasana pantai dan melepas lelah juga menyegarkan pikiran."
+    },
+    {
+      "id": 3,
+      "name_wisata": "Air Terjun Tigo Tingkek",
+      "location": "Padang ",
+      "image": "https://cdn.nativeindonesia.com/foto/2016/02/Air-Terjun-Tigo-Tingkek-1.jpg",
+      "description": "Air Terjun Tigo Tingkek – Bagi Anda yang gemar bertualang dan mencari tantangan, tempat wisata di Padang yang satu ini mungkin bisa Anda taklukkan. Air terjun Tigo Tingkek atau Tiga Tingkat ini berada di Desa Cendikar. Tempat wisata ini cenderung masih perawan, keindahan panorama alamnya begitu alami dan asri. Tak banyak yang mengetahui keberadaan pesona alam yang satu ini."
+    },
+    {
+      "id": 4,
+      "name_wisata": "Danau Singkarak",
+      "location": "Solok",
+      "image": "https://cdn.nativeindonesia.com/foto/2016/02/danau-singkarak-1.jpg",
+      "description": "Pesona alam yang dimiliki kawasan danau ini menjadikannya sebagai salah satu tempat wisata di Solok sumaterea barat yang patut dikunjungi. Danau singkarak ini merupakan danau terbesar di provinsi Sumatera Barat dengan panjang mencapai 21 km. Lokasinya terletak di Jalan Raya Padang Panjang – Solok."
+    },
+    {
+      "id": 5,
+      "name_wisata": " Danau Maninjau",
+      "location": "Maninjau",
+      "image": "https://cdn.nativeindonesia.com/foto/2016/02/danau-maninjau-1.jpg",
+      "description": "Danau Maninjau dikenal sebagai danau terbesar kedua di provinsi Sumatera Barat setelah Danau Singkarak. Lokasinya berada di Kecamatan Tanjung Raya, Kabupaten Agam."
+    },
+    {
+      "id": 6,
+      "name_wisata": "Danau Kembar ",
+      "location": "Alahan Panjang",
+      "image": "https://cdn.nativeindonesia.com/foto/2016/02/danau-kembar-padang-1.jpg",
+      "description": "Uniknya untuk mencapai danau di atas, Anda harus melalui jalan yang menurun. Sebaliknya, untuk mengakses danau di bawah justru harus melalui jalan yang mendaki. Tempat wisata ini terletak di Desa Pasar Simpang, Kecamatan Lembayang Jaya, Kabupaten Solok. Dari pusat Kota Solok, danau ini berjarak kurang lebih 47 km. Jika diakses dari Kota Padang, maka berjarak sekitar 56 km."
+    },
+    {
+      "id": 7,
+      "name_wisata": "Pulau Sikuai",
+      "location": "Padang",
+      "image": "https://cdn.nativeindonesia.com/foto/2016/02/Pulau-Sikuai-padang-1.jpg",
+      "description": "Meski pulau tersendiri, namun Pulau Sikuai secara administrasi termasuk bagian dari provinsi Sumatera Barat. Pulau Sikuai terletak di sisi barat Pulau Sumatera yang hanya berjarak sekitar setengah mil dari Kota Padang. Lokasi pulau ini dapat dijangkau dengan menggunakan kapal angkutan khusus dengan waktu tempuh selama kurang lebih 35 menit dari dermaga airud Bungus."
+    },
+    {
+      "id": 8,
+      "name_wisata": "Pulau Cubadak",
+      "location": "Padang",
+      "image": "https://cdn.nativeindonesia.com/foto/2016/02/Pulau-Cubadak-padang-1.jpg",
+      "description": "Pulau Cubadak merupakan tempat wisata di Padang lainnya yang wajib masuk dalam destinasi wisata Anda ketika berkunjung di kota ini. Keindahan alamnya yang seolah tiada tara menarik minat para investor asing untuk mengembangkannya. Dan benar saja, pulau ini telah dikembangkan menjadi objek wisata berskala internasional oleh investor dari Italia."
+    },
+    {
+      "id": 9,
+      "name_wisata": "Lembah Anai",
+      "location": "Padang Panjang",
+      "image": "https://cdn.nativeindonesia.com/foto/2016/02/lembah-anai-padang-1.jpg",
+      "description": "Keunikan dari tempat wisata ini adalah keberadaan 3 air terjun yang masing-masing menyajikan keindahan alam tersendiri. Dari ketiga air terjun yang ada, satu yang paling terkenal dan menjadi favorit wisatawan yaitu air terjun Lembah Anai yang memiliki ketinggian 35 meter."
+    },
+    {
+      "id": 10,
+      "name_wisata": "Ngarai Sianok ",
+      "location": "Bukit Tinggi",
+      "image": "https://cdn.nativeindonesia.com/foto/2016/02/ngarai-sianok-1.jpg",
+      "description": "Keindahannya tak terbantahkan, dengan hamparan rumput nan hijau dan subur yang dialiri anak sungai berliku-liku menyusuri celah-celah tebing yang berwarna-warni. Dengan latar Gunung Marapi dan Singgalang yang menghijau semakin menambah pesona tempat wisata ini."
+    },
+    {
+      "id": 11,
+      "name_wisata": "Istana Pagaruyung",
+      "location": "Batusangkar",
+      "image": "https://cdn.nativeindonesia.com/foto/2016/02/istana-pagaruyung-1.jpg",
+      "description": "Tempat wisata di Padang yang satu ini memiliki nilai sejarah yang begitu berharga. Istana Pagaruyung merupakan peninggalan sejarah yang dulunya berfungsi sebagai kediaman Raja Minangkabau. Istana dengan arsitektur khas Minangkabau ini dibangun di Batusangkar."
+    },
+    {
+       "id": 12,
+       "name_wisata": "Jam Gadang",
+       "location": "Bukit Tinggi",
+       "image": "https://cdn.nativeindonesia.com/foto/2016/02/jam-gadang-1.jpg",
+       "description": " Jam Gadang menjadi salah satu tempat wisata di Bukit Tinggi yang mampu menarik minat wisatawan untuk mengunjunginya. Bangunannya yang unik berupa menara dengan bentuk atap khas Minangkabau memiliki pesona tersendiri."
+        
+  
+    }
+  ]
